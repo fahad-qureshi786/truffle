@@ -20,3 +20,4 @@ packages/contract/dist
 
 # @truffle/db
 **/*.db
+config.bat
